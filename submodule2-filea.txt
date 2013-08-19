@@ -1,1 +1,1 @@
-submodule2 contents
+submodule2 contents updated
